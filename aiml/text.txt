@@ -1,0 +1,2 @@
+%attachments
+%authenticate 15 -u dev1
